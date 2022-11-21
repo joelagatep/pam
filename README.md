@@ -15,4 +15,4 @@ The recommended working folder to use is: C:\Users\your-user-name\Documents\PAM
 
 Then, in Parameters below, update the fn_bfore and fn_after with the appropriate file names, without the '.xlsx'
 
-Parameters:  Before (fn_bfore) and After (fn_after) files. Example Below.
+Parameters:  Before (fn_bfore) and After (fn_after) files
