@@ -15,8 +15,8 @@ The recommended working folder to use is: C:\Users\your-user-name\Documents\PAM
 
 Then, in Parameters below, update the fn_bfore and fn_after with the appropriate file names, without the '.xlsx'
 
-Run using the >> button above.
-
 Parameters:  Before and After files. Example Below.
+<ul>
 fn_bfore = 'PSG20220713'
 fn_after = 'PSG20220822'
+</ul>
