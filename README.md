@@ -1,4 +1,4 @@
-# PAM
+# pam
 
 Privileged Access Management Review Report Generator
 Version 3
